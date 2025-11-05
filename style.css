@@ -1,0 +1,46 @@
+
+.change{
+    height: 500px;
+    width: 700px;
+    border-radius: 50px;
+    align-items: center;
+    background-image:linear-gradient(pink,rgba(140, 0, 255, 0.582));
+    color:blueviolet;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+h1{
+    text-align: center;
+}
+.do{
+    text-align: center;
+    padding: 20px;
+}
+
+.main{
+    display: flex;
+justify-content: space-around;
+}
+button{
+    height: 70px;
+    width: 150px;
+    color:blueviolet;
+    border: none;
+    border-radius: 20px;
+    font-size: x-large;
+    margin: 2px;
+
+}
+input{
+    
+    height: 70px;  
+    width: 200px;
+    color:blueviolet;
+    border: none;
+    border-radius: 30px;
+    font-size: large;
+    
+}
