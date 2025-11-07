@@ -25,6 +25,8 @@ function edit(element) {
   addtask.innerText = "edited";
   let pre = element.parentNode.parentNode.firstChild;
   task.value = pre.innerHTML;
+  task.value = addtask;
+  task.value = " "
 }
 
 function remove(element) {
